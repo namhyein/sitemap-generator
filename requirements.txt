@@ -1,0 +1,4 @@
+chalice
+certifi
+boto3
+pymongo

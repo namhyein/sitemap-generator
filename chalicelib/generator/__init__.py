@@ -1,0 +1,1 @@
+from .feed.processor import ArticleFeedGenerator
